@@ -34,5 +34,8 @@ function displayData(data) {
         row.append("td").text(d.location);
         row.append("td").text(d.category);
         row.append("td").text(d.data);
+        row.append("td").text(d.status);
+        row.append("td").text(d.image_URL);
+        row.append("td").text(d.target_URL);
     });
 }

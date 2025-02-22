@@ -1,100 +1,142 @@
-date,location,category,data
-06/12/2022,Davis,Input,Drone Imaging
-06/13/2022,Kearney,Input,"Drone Imaging, Rover Imaging"
-06/15/2022,Davis,Input,Drone Imaging
-06/18/2022,Davis,Input,"Drone Imaging, Rover Imaging"
-06/21/2022,Kearney,Input,"Drone Imaging, Rover Imaging"
-06/22/2022,Davis,Input,Drone Imaging
-06/28/2022,Davis,Input,"Drone Imaging, Rover Imaging"
-06/29/2022,"Davis, Kearney",Input,"Drone Imaging, Physio Measurement, Rover Imaging"
-07/05/2022,Kearney,Input,"Drone Imaging, Rover Imaging"
-07/06/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring, Rover Imaging"
-07/07/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring, Rover Imaging"
-07/08/2022,Davis,Input,Drone Imaging
-07/10/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring, Rover Imaging"
-07/11/2022,Kearney,Ground Truth,Flowering Scoring
-07/12/2022,Davis,Input,Drone Imaging
-07/18/2022,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Flowering scoring CB, Flowering scoring CP, Rover Imaging, Stand Count CB"
-07/19/2022,Davis,Ground Truth,"Flowering scoring CB, Flowering scoring CP"
-07/20/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
-07/22/2022,Davis,"Ground Truth, Input","Drone Imaging, Drone Imaging Sorghum, Flowering scoring CB, Flowering scoring CP, Rover Imaging"
-07/25/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering scoring CB, Flowering scoring CP, Rover Imaging"
-07/26/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
-07/27/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
-07/28/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
-07/29/2022,"Davis, Kearney","Ground Truth, Input","Flowering Scoring Sorghum, Flowering scoring CB, Flowering scoring CP, Rover Imaging"
-08/02/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging"
-08/03/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging"
-08/05/2022,Davis,Ground Truth,Flowering Scoring CP
-08/07/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Time Sorghum"
-08/08/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP"
-08/09/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging, Stand Count CP"
-08/10/2022,Davis,Input,Physio Measurement
-08/11/2022,Davis,"Ground Truth, Input","Flowering Scoring Sorghum, Physio Measurement"
-08/12/2022,Davis,"Ground Truth, Input","Drone Imaging Sorghum, Flowering Scoring Sorghum"
-08/13/2022,Davis,"Ground Truth, Input","Drone Imaging CP, Flowering Scoring CP"
-08/14/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging, Stand Count CP"
-08/17/2022,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Time Sorghum"
-08/20/2022,Davis,"Ground Truth, Input","Drone Imaging, Plant Height"
-08/21/2022,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP, Stand Count CP"
-08/22/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
-08/23/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
-08/29/2022,Kearney,Ground Truth,Flowering Scoring CP
-06/15/2023,Kearney,Input,"Drone Imaging, Rover Imaging"
-06/20/2023,Davis,"Ground Truth, Input","Drone Imaging, Rover Imaging, Stand Count CB"
-06/22/2023,Kearney,Input,"Drone Imaging, Rover Imaging"
-06/23/2023,Davis,Ground Truth,Stand Count CP
-06/26/2023,Kearney,Ground Truth,Stand Count CB
-06/27/2023,Davis,Input,"Drone Imaging, Rover Imaging"
-06/28/2023,Davis,Ground Truth,"Plant Height CB, Stand Count Sorghum"
-06/29/2023,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP"
-07/03/2023,Davis,Input,"Drone Imaging, Rover Imaging"
-07/05/2023,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
-07/06/2023,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP"
-07/07/2023,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
-07/08/2023,Davis,Ground Truth,Flowering Scoring CB
-07/10/2023,Davis,Ground Truth,Flowering Scoring CB
-07/11/2023,Davis,Ground Truth,Flowering Scoring CB
-07/12/2023,Kearney,Ground Truth,Flowering Scoring CB
-07/13/2023,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP"
-07/14/2023,Davis,Input,"Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging"
-07/17/2023,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
-07/18/2023,Davis,"Ground Truth, Input","Drone Imaging, Plant Height CP, Plant Height Sorghum, Rover Imaging"
-07/19/2023,Kearney,Ground Truth,Flowering Scoring CB
-07/20/2023,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging, Rover Imaging CP"
-07/24/2023,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
-07/25/2023,Davis,Input,"Drone Imaging, Rover Imaging"
-07/26/2023,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
-07/27/2023,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Flowering Time Sorghum, Rover Imaging, Rover Imaging CP"
-07/28/2023,Davis,Input,"Drone Imaging, Rover Imaging"
-07/31/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
-08/01/2023,Davis,Input,"Drone Imaging, Rover Imaging"
-08/02/2023,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
-08/03/2023,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Flowering Time Sorghum, Rover Imaging, Rover Imaging CP"
-08/07/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
-08/10/2023,Kearney,"Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Rover Imaging, Rover Imaging CP"
-08/11/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
-08/14/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CB"
-08/16/2023,Davis,Ground Truth,Flowering Scoring CP
-08/17/2023,Kearney,"Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Plant Height CB, Rover Imaging, Rover Imaging CP"
-08/18/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CP"
-08/21/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
-08/23/2023,Kearney,Ground Truth,"Flowering Scoring CP, Plant Height CP"
-08/25/2023,Davis,Ground Truth,Flowering Time Sorghum
-08/28/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CP"
-09/01/2023,"Davis, Kearney",Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
-09/05/2023,Davis,Ground Truth,Flowering Time Sorghum
-09/11/2023,Davis,Ground Truth,Flowering Time Sorghum
-09/12/2023,Davis,Ground Truth,Harvest CB
-09/17/2023,Davis,Ground Truth,Harvest CB
-09/22/2023,Davis,Ground Truth,"Flowering Time Sorghum, Harvest CB"
-09/28/2023,"Davis, Kearney",Ground Truth,"Plant Height CP, Plant Height Sorghum"
-10/13/2023,Kearney,Ground Truth,Harvest CB
-10/17/2023,Kearney,Ground Truth,Harvest CB
-10/19/2023,Kearney,Ground Truth,Harvest CB
-10/20/2023,"Davis, Kearney",Ground Truth,"Harvest CB, Harvest CP"
-10/27/2023,Davis,Ground Truth,Harvest CB
-10/30/2023,Davis,Ground Truth,Harvest CB
-11/03/2023,Davis,Ground Truth,Harvest CB
-11/09/2023,Davis,Ground Truth,Harvest Sorghum
-11/10/2023,Davis,Ground Truth,Harvest Sorghum
+date,location,category,data,Status,image_URL,target_URL
+6/12/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/13/22,Kearney,Input,"Drone Imaging, Rover Imaging",Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/15/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/18/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/21/22,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/22/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/28/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/29/22,Davis,Input,"Drone Imaging, Physio Measurement, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/29/22,Kearney,Input,"Drone Imaging, Physio Measurement, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/5/22,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/6/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/6/22,Davis,Ground Truth,Flowering Scoring,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/7/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/7/22,Davis,Ground Truth,Flowering Scoring,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/8/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/10/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/10/22,Davis,Ground Truth,Flowering Scoring,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/11/22,Kearney,Ground Truth,Flowering Scoring,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/12/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/18/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/18/22,Davis,Ground Truth," Flowering scoring CB, Flowering scoring CP, Stand Count CB",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/18/22, Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/18/22, Kearney,Ground Truth,"Flowering scoring CB, Flowering scoring CP, Stand Count CB",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/19/22,Davis,Ground Truth,"Flowering scoring CB, Flowering scoring CP",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/20/22,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/20/22,Kearney,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/22/22,Davis,Input,"Drone Imaging, Drone Imaging Sorghum, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/22/22,Davis,Ground Truth,"Flowering scoring CB, Flowering scoring CP",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/25/22,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/25/22,Davis,Ground Truth,"Flowering scoring CB, Flowering scoring CP",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/26/22,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/26/22,Kearney,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/27/22,Davis,Input,"LIDAR Scanning, Physio Measurement",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/28/22,Davis,Input,"LIDAR Scanning, Physio Measurement",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/29/22,Davis,Input,Rover Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/29/22,Davis,Ground Truth,"Flowering Scoring Sorghum, Flowering scoring CB, Flowering scoring CP",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/29/22,Kearney,Input,Rover Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+7/29/22,Kearney,Ground Truth,"Flowering Scoring Sorghum, Flowering scoring CB, Flowering scoring CP",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/2/22,Davis,Input,Rover Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/2/22,Davis,Ground Truth,"Drone Imaging, Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/3/22,Kearney,Input,Rover Imaging,Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/3/22,Kearney,Ground Truth,"Drone Imaging, Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/5/22,Davis,Ground Truth,Flowering Scoring CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/7/22,Kearney,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/7/22,Kearney,Ground Truth,Flowering Time Sorghum,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/8/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/8/22,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/9/22,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/9/22,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP, Stand Count CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/10/22,Davis,Input,Physio Measurement,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/11/22,Davis,Input,Physio Measurement,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/11/22,Davis,Ground Truth,Flowering Scoring Sorghum,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/12/22,Davis,Input,Drone Imaging Sorghum,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/12/22,Davis,Ground Truth,Flowering Scoring Sorghum,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/13/22,Davis,Input,Drone Imaging CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/13/22,Davis,Ground Truth,Flowering Scoring CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/14/22,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/14/22,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP, Stand Count CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/17/22,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/20/22,Davis,Input,Drone Imaging,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/20/22,Davis,Ground Truth,Plant Height,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/21/22,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP, Stand Count CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/22/22,Davis,Input,"LIDAR Scanning, Physio Measurement",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/23/22,Davis,Input,"LIDAR Scanning, Physio Measurement",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+8/29/22,Kearney,Ground Truth,Flowering Scoring CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,Êhttps://ucdavis.app.box.com/folder/179269155158Ê
+6/15/23,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/20/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/20/23,Davis,Ground Truth,Stand Count CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/22/23,Kearney,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/23/23,Davis,Ground Truth,Stand Count CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/26/23,Kearney,Ground Truth,Stand Count CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/27/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/28/23,Davis,Ground Truth,"Plant Height CB, Stand Count Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+6/29/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/3/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/5/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/5/23,Davis,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/6/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/7/23,Davis,Input,"Drone Imaging,  Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/7/23,Davis,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/8/23,Davis,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/10/23,Davis,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/11/23,Davis,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/12/23,Kearney,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/13/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/14/23,Davis,Input,"Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/17/23,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/18/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/18/23,Davis,Ground Truth,"Plant Height CP, Plant Height Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/19/23,Kearney,Ground Truth,Flowering Scoring CB,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/20/23,Davis,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/20/23,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/20/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/20/23,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/24/23,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/25/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/26/23,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/27/23,Davis,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/27/23,Davis,Ground Truth," Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/27/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/27/23,Kearney,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/28/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+7/31/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/1/23,Davis,Input,"Drone Imaging, Rover Imaging",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/2/23,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/3/23,Davis,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/3/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/3/23,Kearney,Input,"Drone Imaging, Drone Imaging CP,  Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/3/23,Kearney,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/7/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/10/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/10/23,Kearney,Ground Truth, Flowering Scoring CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/11/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/14/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CB",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/16/23,Davis,Ground Truth,Flowering Scoring CP,Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/17/23,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP",Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,https://ucdavis.app.box.com/folder/222328832434
+8/17/23,Kearney,Ground Truth,"Flowering Scoring CP, Plant Height CB",Processed,,https://ucdavis.app.box.com/folder/222328832434
+8/18/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CP",Processed,,https://ucdavis.app.box.com/folder/222328832434
+8/21/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,,https://ucdavis.app.box.com/folder/222328832434
+8/23/23,Kearney,Ground Truth,"Flowering Scoring CP, Plant Height CP",Processed,,https://ucdavis.app.box.com/folder/222328832434
+8/25/23,Davis,Ground Truth,Flowering Time Sorghum,Processed,,https://ucdavis.app.box.com/folder/222328832434
+8/28/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CP",Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/1/23,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/1/23,Kearney,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum",Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/5/23,Davis,Ground Truth,Flowering Time Sorghum,Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/11/23,Davis,Ground Truth,Flowering Time Sorghum,Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/12/23,Davis,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/17/23,Davis,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/22/23,Davis,Ground Truth,"Flowering Time Sorghum, Harvest CB",Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/28/23,Davis,Ground Truth,"Plant Height CP, Plant Height Sorghum",Processed,,https://ucdavis.app.box.com/folder/222328832434
+9/28/23,Kearney,Ground Truth,"Plant Height CP, Plant Height Sorghum",Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/13/23,Kearney,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/17/23,Kearney,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/19/23,Kearney,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/20/23,Davis,Ground Truth,"Harvest CB, Harvest CP",Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/20/23,Kearney,Ground Truth,"Harvest CB, Harvest CP",Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/27/23,Davis,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+10/30/23,Davis,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+11/3/23,Davis,Ground Truth,Harvest CB,Processed,,https://ucdavis.app.box.com/folder/222328832434
+11/9/23,Davis,Ground Truth,Harvest Sorghum,Processed,,https://ucdavis.app.box.com/folder/222328832434
+11/10/23,Davis,Ground Truth,Harvest Sorghum,Processed,,https://ucdavis.app.box.com/folder/222328832434
