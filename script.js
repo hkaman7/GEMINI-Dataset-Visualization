@@ -35,18 +35,29 @@ function displayData(data) {
         row.append("td").text(d.category);
         row.append("td").text(d.data);
         row.append("td").text(d.status);
-        row.append("td").text(d.image_URL);
         row.append("td").text(d.target_URL);
         // Create an image link if available
         let imgCell = row.append("td");
+
         if (d.image) {
-            imgCell.append("a")
-                .attr("href", d.image)
-                .attr("target", "_blank")
-                .append("img")
-                .attr("src", d.image)
-                .attr("alt", "Image Preview")
-                .attr("width", 100); // Adjust size as needed
+            let imageUrl = d.image;
+        
+        // Check if it's a Google Drive shared link
+        if (imageUrl.includes("drive.google.com")) {
+            let match = imageUrl.match(/\/d\/(.*)\/view/);
+            if (match) {
+                let fileId = match[1];
+                imageUrl = `https://drive.google.com/uc?export=view&id=${fileId}`;
+            }
+        }
+        
+        imgCell.append("a")
+            .attr("href", d.image) // Keep the original link for downloading
+            .attr("target", "_blank")
+            .append("img")
+            .attr("src", imageUrl)
+            .attr("alt", "Image Preview")
+            .attr("width", 100); // Adjust size as needed
         } else {
             imgCell.text("No Image");
         }
