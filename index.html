@@ -23,6 +23,13 @@
             <option value="Kearney">Kearney</option>
         </select>
         
+        <label for="category">Category:</label>
+        <select id="category">
+            <option value="all">All</option>
+            <option value="Input">Input</option>
+            <option value="Ground Truth">Ground Truth</option>
+        </select>
+        
         <button onclick="filterData()">Filter</button>
     </div>
     
@@ -32,7 +39,7 @@
                 <th>Date</th>
                 <th>Location</th>
                 <th>Category</th>
-                <th>Sub-category</th>
+                <th>Data</th>
             </tr>
         </thead>
         <tbody id="data-table"></tbody>
