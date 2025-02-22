@@ -1,0 +1,100 @@
+date,location,category,data
+06/12/2022,Davis,Input,Drone Imaging
+06/13/2022,Kearney,Input,"Drone Imaging, Rover Imaging"
+06/15/2022,Davis,Input,Drone Imaging
+06/18/2022,Davis,Input,"Drone Imaging, Rover Imaging"
+06/21/2022,Kearney,Input,"Drone Imaging, Rover Imaging"
+06/22/2022,Davis,Input,Drone Imaging
+06/28/2022,Davis,Input,"Drone Imaging, Rover Imaging"
+06/29/2022,"Davis, Kearney",Input,"Drone Imaging, Physio Measurement, Rover Imaging"
+07/05/2022,Kearney,Input,"Drone Imaging, Rover Imaging"
+07/06/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring, Rover Imaging"
+07/07/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring, Rover Imaging"
+07/08/2022,Davis,Input,Drone Imaging
+07/10/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring, Rover Imaging"
+07/11/2022,Kearney,Ground Truth,Flowering Scoring
+07/12/2022,Davis,Input,Drone Imaging
+07/18/2022,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Flowering scoring CB, Flowering scoring CP, Rover Imaging, Stand Count CB"
+07/19/2022,Davis,Ground Truth,"Flowering scoring CB, Flowering scoring CP"
+07/20/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
+07/22/2022,Davis,"Ground Truth, Input","Drone Imaging, Drone Imaging Sorghum, Flowering scoring CB, Flowering scoring CP, Rover Imaging"
+07/25/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering scoring CB, Flowering scoring CP, Rover Imaging"
+07/26/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
+07/27/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
+07/28/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
+07/29/2022,"Davis, Kearney","Ground Truth, Input","Flowering Scoring Sorghum, Flowering scoring CB, Flowering scoring CP, Rover Imaging"
+08/02/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging"
+08/03/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging"
+08/05/2022,Davis,Ground Truth,Flowering Scoring CP
+08/07/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Time Sorghum"
+08/08/2022,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP"
+08/09/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging, Stand Count CP"
+08/10/2022,Davis,Input,Physio Measurement
+08/11/2022,Davis,"Ground Truth, Input","Flowering Scoring Sorghum, Physio Measurement"
+08/12/2022,Davis,"Ground Truth, Input","Drone Imaging Sorghum, Flowering Scoring Sorghum"
+08/13/2022,Davis,"Ground Truth, Input","Drone Imaging CP, Flowering Scoring CP"
+08/14/2022,Kearney,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging, Stand Count CP"
+08/17/2022,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Time Sorghum"
+08/20/2022,Davis,"Ground Truth, Input","Drone Imaging, Plant Height"
+08/21/2022,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP, Stand Count CP"
+08/22/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
+08/23/2022,Davis,Input,"LIDAR Scanning, Physio Measurement"
+08/29/2022,Kearney,Ground Truth,Flowering Scoring CP
+06/15/2023,Kearney,Input,"Drone Imaging, Rover Imaging"
+06/20/2023,Davis,"Ground Truth, Input","Drone Imaging, Rover Imaging, Stand Count CB"
+06/22/2023,Kearney,Input,"Drone Imaging, Rover Imaging"
+06/23/2023,Davis,Ground Truth,Stand Count CP
+06/26/2023,Kearney,Ground Truth,Stand Count CB
+06/27/2023,Davis,Input,"Drone Imaging, Rover Imaging"
+06/28/2023,Davis,Ground Truth,"Plant Height CB, Stand Count Sorghum"
+06/29/2023,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP"
+07/03/2023,Davis,Input,"Drone Imaging, Rover Imaging"
+07/05/2023,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
+07/06/2023,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP"
+07/07/2023,Davis,"Ground Truth, Input","Drone Imaging, Flowering Scoring CB, Rover Imaging"
+07/08/2023,Davis,Ground Truth,Flowering Scoring CB
+07/10/2023,Davis,Ground Truth,Flowering Scoring CB
+07/11/2023,Davis,Ground Truth,Flowering Scoring CB
+07/12/2023,Kearney,Ground Truth,Flowering Scoring CB
+07/13/2023,Kearney,Input,"Drone Imaging, Drone Imaging CP, Rover Imaging, Rover Imaging CP"
+07/14/2023,Davis,Input,"Drone Imaging, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging"
+07/17/2023,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
+07/18/2023,Davis,"Ground Truth, Input","Drone Imaging, Plant Height CP, Plant Height Sorghum, Rover Imaging"
+07/19/2023,Kearney,Ground Truth,Flowering Scoring CB
+07/20/2023,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CB, Flowering Scoring CP, Rover Imaging, Rover Imaging CP"
+07/24/2023,Davis,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
+07/25/2023,Davis,Input,"Drone Imaging, Rover Imaging"
+07/26/2023,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
+07/27/2023,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Flowering Time Sorghum, Rover Imaging, Rover Imaging CP"
+07/28/2023,Davis,Input,"Drone Imaging, Rover Imaging"
+07/31/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
+08/01/2023,Davis,Input,"Drone Imaging, Rover Imaging"
+08/02/2023,Kearney,Ground Truth,"Flowering Scoring CB, Flowering Scoring CP"
+08/03/2023,"Davis, Kearney","Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Flowering Time Sorghum, Rover Imaging, Rover Imaging CP"
+08/07/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
+08/10/2023,Kearney,"Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Rover Imaging, Rover Imaging CP"
+08/11/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
+08/14/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CB"
+08/16/2023,Davis,Ground Truth,Flowering Scoring CP
+08/17/2023,Kearney,"Ground Truth, Input","Drone Imaging, Drone Imaging CP, Flowering Scoring CP, Plant Height CB, Rover Imaging, Rover Imaging CP"
+08/18/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CP"
+08/21/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
+08/23/2023,Kearney,Ground Truth,"Flowering Scoring CP, Plant Height CP"
+08/25/2023,Davis,Ground Truth,Flowering Time Sorghum
+08/28/2023,Davis,Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum, Plant Height CP"
+09/01/2023,"Davis, Kearney",Ground Truth,"Flowering Scoring CP, Flowering Time Sorghum"
+09/05/2023,Davis,Ground Truth,Flowering Time Sorghum
+09/11/2023,Davis,Ground Truth,Flowering Time Sorghum
+09/12/2023,Davis,Ground Truth,Harvest CB
+09/17/2023,Davis,Ground Truth,Harvest CB
+09/22/2023,Davis,Ground Truth,"Flowering Time Sorghum, Harvest CB"
+09/28/2023,"Davis, Kearney",Ground Truth,"Plant Height CP, Plant Height Sorghum"
+10/13/2023,Kearney,Ground Truth,Harvest CB
+10/17/2023,Kearney,Ground Truth,Harvest CB
+10/19/2023,Kearney,Ground Truth,Harvest CB
+10/20/2023,"Davis, Kearney",Ground Truth,"Harvest CB, Harvest CP"
+10/27/2023,Davis,Ground Truth,Harvest CB
+10/30/2023,Davis,Ground Truth,Harvest CB
+11/03/2023,Davis,Ground Truth,Harvest CB
+11/09/2023,Davis,Ground Truth,Harvest Sorghum
+11/10/2023,Davis,Ground Truth,Harvest Sorghum
