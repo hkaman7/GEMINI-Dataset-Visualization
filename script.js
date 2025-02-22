@@ -37,5 +37,22 @@ function displayData(data) {
         row.append("td").text(d.status);
         row.append("td").text(d.image_URL);
         row.append("td").text(d.target_URL);
+        // Create an image link if available
+        let imgCell = row.append("td");
+        if (d.image) {
+            imgCell.append("a")
+                .attr("href", d.image)
+                .attr("target", "_blank")
+                .append("img")
+                .attr("src", d.image)
+                .attr("alt", "Image Preview")
+                .attr("width", 100); // Adjust size as needed
+        } else {
+            imgCell.text("No Image");
+        }
     });
 }
+
+
+
+
