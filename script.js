@@ -66,7 +66,7 @@
 
 
 document.addEventListener("DOMContentLoaded", function () {
-    d3.csv("data_2022_2023.csv").then(function (data) {
+    d3.csv("Exploded_Category_Data.csv").then(function (data) {
         window.dataset = data;
         displayData(data);
     });
@@ -77,13 +77,15 @@ function filterData() {
     let endDate = document.getElementById("endDate").value;
     let location = document.getElementById("location").value;
     let category = document.getElementById("category").value;
+    let crop = document.getElementById("crop").value;
 
     let filteredData = window.dataset.filter(d => {
         let dateCheck = (!startDate || new Date(d.date) >= new Date(startDate)) &&
                         (!endDate || new Date(d.date) <= new Date(endDate));
         let locationCheck = (location === "all" || d.location.includes(location));
         let categoryCheck = (category === "all" || d.category.includes(category));
-        return dateCheck && locationCheck && categoryCheck;
+        let cropCheck = (crop === "all" || d.crop.includes(crop));
+        return dateCheck && locationCheck && categoryCheck && cropCheck;
     });
     
     displayData(filteredData);
@@ -98,7 +100,7 @@ function displayData(data) {
         row.append("td").text(d.date);
         row.append("td").text(d.location);
         row.append("td").text(d.category);
-        row.append("td").text(d.data);
+        row.append("td").text(d.crop);
         row.append("td").text(d.status);
         
         // Handle Google Drive image URLs
