@@ -10,6 +10,15 @@ h1 {
     text-align: left;
 }
 
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .filter-container {
     margin-bottom: 20px;
     text-align: left;
@@ -27,8 +36,8 @@ input, select, button {
 }
 
 table {
-    width: 80%;
-    margin: 20px auto;
+    width: 100%;
+    margin-top: 20px;
     border-collapse: collapse;
     background: white;
 }
@@ -42,4 +51,12 @@ th, td {
 th {
     background-color: #007BFF;
     color: white;
+}
+
+.text-box {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
 }
