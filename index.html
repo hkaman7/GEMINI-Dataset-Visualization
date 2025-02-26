@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,18 +10,31 @@
 <body>
     <h1>GEMINI Dataset Explorer</h1>
     <p>The GEMINI dataset covers <strong>two locations</strong> (Davis and Kearney) and spans <strong>two years</strong> (2022 and 2023). It consists of various data types categorized under <strong>Input</strong> and <strong>Ground Truth</strong>.</p>
-    <p><strong>Input Data</strong> includes:
-        <ul>
-            <li>Drone Imaging</li>
-            <li>Rover Imaging (T4 or Omega)</li>
-        </ul>
-    </p>
-    <p><strong>Abbreviations:</strong>
-        <ul>
-            <li><strong>CP</strong>: Cowpea</li>
-            <li><strong>CB</strong>: Common Bean</li>
-        </ul>
-    </p>
+    <p><strong>Definitions of Key Traits:</strong></p>
+    <ul>
+        <li><strong>Stand Count:</strong> The number of viable plants per plot. A plant is considered viable if it is green, not wilted, and does not exhibit significant yellowing of leaves or stems.</li>
+        <li><strong>Flowering Time:</strong>
+            <ul>
+                <li><strong>In grain legumes:</strong> The date when 50% of the plants in the plot have at least one open flower.</li>
+                <li><strong>In sorghum:</strong> The date when 50% of the plants in the plot have anthers extruding pollen on the top 50% of their primary panicle.</li>
+            </ul>
+        </li>
+        <li><strong>Plant Height:</strong> The distance from the base of the plant to its highest point. The reported value is the estimated average plant height per plot.</li>
+        <li><strong>Yield (kg/ha):</strong> The weight of seeds/grains per plot area, adjusted to account for variation in moisture content.</li>
+        <li><strong>Flowering Scoring:</strong> A shorthand term for flowering time, referring to the process of recording when flowering occurs.</li>
+    </ul>
+    <p><strong>Input Data</strong> includes:</p>
+    <ul>
+        <li>Drone Imaging</li>
+        <li>Rover Imaging (T4)</li>
+        <li>Physio Measurement</li>
+        <li>LiDAR Observation</li>
+    </ul>
+    <p><strong>Abbreviations:</strong></p>
+    <ul>
+        <li><strong>CP</strong>: Cowpea</li>
+        <li><strong>CB</strong>: Common Bean</li>
+    </ul>
     <div class="filter-container">
         <label for="startDate">Start Date:</label>
         <input type="date" id="startDate">
