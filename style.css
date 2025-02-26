@@ -3,15 +3,17 @@ body {
     margin: 20px;
     padding: 20px;
     background-color: #f4f4f4;
-    text-align: center;
+    text-align: left;
 }
 
 h1 {
     color: #333;
+    text-align: left;
 }
 
 .filter-container {
     margin-bottom: 20px;
+    text-align: left;
 }
 
 label {
@@ -30,6 +32,7 @@ table {
     margin: 20px auto;
     border-collapse: collapse;
     background: white;
+    text-align: left;
 }
 
 th, td {
@@ -41,4 +44,5 @@ th, td {
 th {
     background-color: #007BFF;
     color: white;
+    text-align: left;
 }
