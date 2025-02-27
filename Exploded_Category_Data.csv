@@ -1,38 +1,40 @@
 date,location,category,crop,status,image_URL,target_URL
-6/12/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/13/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/13/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/15/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/18/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/18/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/21/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/21/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/22/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/28/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/28/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/28/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/29/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/8/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/9/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/13/22,Davis,Drone Imaging,Legumes,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/15/22,Kearney,Drone Imaging,CB,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/15/22,Kearney,Rover Imaging,CB,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/17/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/20/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/22/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/22/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/24/22,Davis,Rover Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/27/22,Davis,Drone Imaging,Legumes,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/27/22,Davis,Rover Imaging,Legumes,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 6/29/22,Davis,Physio Measurement,,,,https://ucdavis.app.box.com/folder/179269155158
-6/29/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-6/29/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/29/22,Davis,Rover Imaging,Legumes,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/29/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 6/29/22,Kearney,Physio Measurement,,,,https://ucdavis.app.box.com/folder/179269155158
-6/29/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/5/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/5/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/6/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/6/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+6/29/22,Kearney,Rover Imaging,CP,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/5/22,Kearney,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/5/22,Kearney,Rover Imaging,CP,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/5/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/5/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/6/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/6/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/6/22,Davis,Flowering Scoring,,,,https://ucdavis.app.box.com/folder/179269155158
-7/7/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/7/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/7/22,Davis,Flowering Scoring,,,,https://ucdavis.app.box.com/folder/179269155158
-7/8/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/10/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/10/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/8/22,Davis,Drone Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/8/22,Davis,Rover Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/8/22,Davis,Flowering Scoring,,,,https://ucdavis.app.box.com/folder/179269155158
+7/11/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/11/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/10/22,Davis,Flowering Scoring,,,,https://ucdavis.app.box.com/folder/179269155158
 7/11/22,Kearney,Flowering Scoring,,,,https://ucdavis.app.box.com/folder/179269155158
-7/12/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/18/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/18/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/13/22, Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/13/22, Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/15/22,Davis,Drone Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/18/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/18/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/18/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/18/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
 7/18/22,Davis,Stand Count,CB,,,https://ucdavis.app.box.com/folder/179269155158
@@ -43,49 +45,61 @@ date,location,category,crop,status,image_URL,target_URL
 7/18/22, Kearney,Stand Count CB,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/19/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/19/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-7/20/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/20/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/20/22,Kearney,Drone Imaging,Cp,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/20/22,Kearney,Rover Imaging,Cp,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/20/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/20/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/20/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
-7/22/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/22/22,Davis,Drone Imaging ,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/22/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/22/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/22/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/22/22,Davis,Drone Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/22/22,Davis,Rover Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/22/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/22/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-7/25/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/25/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/25/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/25/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/25/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/25/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-7/26/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-7/26/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/26/22,Kearney,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/26/22,Kearney,Rover Imaging,CP,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/26/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/26/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/26/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/27/22,Davis,LIDAR Scanning,,,,https://ucdavis.app.box.com/folder/179269155158
 7/27/22,Davis,Physio Measurement,,,,https://ucdavis.app.box.com/folder/179269155158
 7/28/22,Davis,LIDAR Scanning,,,,https://ucdavis.app.box.com/folder/179269155158
 7/28/22,Davis,Physio Measurement,,,,https://ucdavis.app.box.com/folder/179269155158
-7/29/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/29/22,Davis,Rover Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/29/22,Davis,Flowering Scoring,Sorghum,,,https://ucdavis.app.box.com/folder/179269155158
 7/29/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/29/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-7/29/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+7/29/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 7/29/22,Kearney,Flowering Scoring,Sorghum,,,https://ucdavis.app.box.com/folder/179269155158
 7/29/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 7/29/22,Kearney,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-8/2/22,Davis,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-8/2/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+8/1/22,Davis,Rover Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+8/1/22,Davis,Drone Imaging,Legumes,In process,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+8/2/22,Davis,Rover Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+8/2/22,Davis,Drone Imaging,Sorghum,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
 8/2/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 8/2/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-8/3/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
-8/3/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/2/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+8/2/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/2/22,Kearney,Rover Imaging,CP,Not Processed,https://drive.google.com/file/d/1778hDZm_NIXtMPOgvuSk0a8aAmdi0ouD/view?usp=drive_link,
+8/2/22,Kearney,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
 8/3/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 8/3/22,Kearney,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
+8/5/22,Davis,Drone Imaging,Legumes,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
 8/5/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-8/7/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
-8/7/22,Kearney,Flowering Time,,,,https://ucdavis.app.box.com/folder/179269155158
-8/8/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/7/22,Kearney,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/7/22,Kearney,Flowering Time,CP,,,https://ucdavis.app.box.com/folder/179269155158
+8/8/22,Davis,Drone Imaging,Legumes,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
 8/8/22,Davis,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 8/8/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-8/9/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
-8/9/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/9/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/9/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/9/22,Kearney,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/9/22,Kearney,Rover Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
 8/9/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 8/9/22,Kearney,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
 8/9/22,Kearney,Stand Count,CP,,,https://ucdavis.app.box.com/folder/179269155158
@@ -96,11 +110,13 @@ date,location,category,crop,status,image_URL,target_URL
 8/12/22,Davis,Flowering Scoring,Sorghum,,,https://ucdavis.app.box.com/folder/179269155158
 8/13/22,Davis,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
 8/13/22,Davis,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-8/14/22,Kearney,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
-8/14/22,Kearney,Rover Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
-8/14/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
-8/14/22,Kearney,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
-8/14/22,Kearney,Stand Count,CP,,,https://ucdavis.app.box.com/folder/179269155158
+8/16/22,Kearney,Drone Imaging,CB,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/16/22,Kearney,Rover Imaging,CB,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/16/22,Kearney,Drone Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/16/22,Kearney,Rover Imaging,CP,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
+8/16/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
+8/16/22,Kearney,Flowering Scoring,CP,,,https://ucdavis.app.box.com/folder/179269155158
+8/16/22,Kearney,Stand Count,CP,,,https://ucdavis.app.box.com/folder/179269155158
 8/17/22,Kearney,Flowering Scoring,CB,,,https://ucdavis.app.box.com/folder/179269155158
 8/17/22,Kearney,Flowering Time,Sorghum,,,https://ucdavis.app.box.com/folder/179269155158
 8/20/22,Davis,Drone Imaging,,Not Processed,https://drive.google.com/file/d/1VuKFzP9pQRJgPNrZ9UME5KTtu8J8ZZO7/view?usp=drive_link,
